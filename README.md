@@ -24,19 +24,19 @@ Email: sanreyue@gmail.com
 #### 2019 – Present        
 College Commerce of Further Education, Cork 
 
->> Software Development QQI Level 5 
-
->> Communications, Web Design, Manual Handling, Career Planning,  
-
->> Fundamentals of Object-Oriented Programming, Software Architecture, 
-
->> Maths for Information Technology, Programming and Design Principles, 
-
->> Computer Tutorial, Networking Essentials 
+> Software Development QQI Level 5 
+>
+> Communications, Web Design, Manual Handling, Career Planning,  
+>
+> Fundamentals of Object-Oriented Programming, Software Architecture, 
+>
+> Maths for Information Technology, Programming and Design Principles, 
+>
+> Computer Tutorial, Networking Essentials 
 
 #### 2013 - 2019                          
 St. Aidan’s Community College, Dublin Hill, Cork 
->> Leaving Certificate  
+> Leaving Certificate  
 
 ## Hobbies and Interest
 
